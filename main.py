@@ -63,12 +63,12 @@ fig.update_layout(
     yaxis=dict(
         title=dict(text='weight(g)'),
         side='left',
-        range=[1400, 3000]
+        range=[1400, 4000]
     ),
     yaxis2=dict(
         title=dict(text='milk(cc)'),
         side='right',
-        range=[0, 80]
+        range=[0, 200]
     )
 )
 
